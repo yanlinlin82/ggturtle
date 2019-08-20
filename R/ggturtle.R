@@ -5,7 +5,7 @@
 #' @examples
 #' library(ggturtle)
 #'
-#' a <- turtle_init(); for (i in 1:8) { a <- a %>% go_forward(1000) %>% turn_right(135) }; a %>% turtle_draw("RP 8 [ FW 100, TR 135 ]")
+#' a <- turtle_init(); for (i in 1:8) { a <- a %>% go_forward(100) %>% turn_right(135) }; a %>% turtle_draw("RP 8 [ FW 100, TR 135 ]")
 
 #' @export
 turtle_init <- function() {
