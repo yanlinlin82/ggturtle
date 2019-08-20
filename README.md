@@ -1,6 +1,6 @@
 # ggturtle
 
-Use ggplot2 to draw like turtle in LOGO language.
+Use ggplot2 to draw like turtle in [LOGO language](https://en.wikipedia.org/wiki/Logo_%28programming_language%29).
 
 ## Installation
 
