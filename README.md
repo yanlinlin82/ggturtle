@@ -33,7 +33,9 @@ a %>%
   ggsave(filename = "plot-001.png", width = 8, height = 8)
 ```
 
-![Example-001](plots/plot-001.svg)
+<p align="center">
+  <img width="400" height="400" src="plots/plot-001.svg" alt="Example-001">
+</p>
 
 ```{r}
 a <- turtle_init()
@@ -45,7 +47,9 @@ a %>%
   ggsave(filename = "plot-002.png", width = 8, height = 8)
 ```
 
-![Example-002](plots/plot-002.svg)
+<p align="center">
+  <img width="400" height="400" src="plots/plot-002.svg" alt="Example-002">
+</p>
 
 ```{r}
 a <- turtle_init()
@@ -57,7 +61,9 @@ a %>%
   ggsave(filename = "plot-003.png", width = 8, height = 8)
 ```
 
-![Example-003](plots/plot-003.svg)
+<p align="center">
+  <img width="400" height="400" src="plots/plot-003.svg" alt="Example-003">
+</p>
 
 ```{r}
 a <- turtle_init()
@@ -69,4 +75,6 @@ a %>%
   ggsave(filename = "plot-004.png", width = 8, height = 8)
 ```
 
-![Example-004](plots/plot-004.svg)
+<p align="center">
+  <img width="400" height="400" src="plots/plot-004.svg" alt="Example-004">
+</p>
